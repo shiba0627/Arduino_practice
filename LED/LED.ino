@@ -1,4 +1,5 @@
 //LEDの点滅
+//writer:tonegawa
 int led1 = 6;
 void setup() {
   // put your setup code here, to run once:
